@@ -1,0 +1,4 @@
+fastapi==0.63.0
+uvicorn==0.13.4
+pytube==10.6.1
+ffmpeg-python==0.2.0
